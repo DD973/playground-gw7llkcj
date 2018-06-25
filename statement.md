@@ -1,6 +1,6 @@
 # Welcome to your Perl 5 course!
 
-
+### Here is our 1st program that we will call : 'hello.pl' (.pl is the perl program exetention)
 
 ```perl runnable
 print "Hello World!";
