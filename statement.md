@@ -1,6 +1,6 @@
 # Welcome!
 
-This Perl template lets you get started quickly with a simple one-page playground.
+
 
 ```perl runnable
 print "Hello World!";
