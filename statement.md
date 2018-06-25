@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome to your Perl 5 course!
 
 
 
